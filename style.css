@@ -86,3 +86,8 @@ body{
 .sidebar .policies ul li a:focus{
     text-decoration: underline;
 }
+
+.main-container{
+    margin-left: 24px;
+    margin-bottom: 100px;
+}
